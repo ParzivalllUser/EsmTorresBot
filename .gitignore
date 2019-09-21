@@ -1,3 +1,8 @@
+# Custom
+.idea
+ACAS.py
+libs/Constant_Block.py
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
