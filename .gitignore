@@ -2,6 +2,9 @@
 .idea
 ACAS.py
 libs/Constant_Block.py
+venv/
+Files/
+Helping/
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
